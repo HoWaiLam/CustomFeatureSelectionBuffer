@@ -1,0 +1,1756 @@
+{
+  "features": [
+    [
+      0,
+      1108225873,
+      "CHEUNG SHA WAN GOVERNMENT OFFICES",
+      "303 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      1,
+      1108226073,
+      "WING ON BUILDING",
+      "250 - 252 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      2,
+      1108226106,
+      null,
+      "248 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      3,
+      1108226107,
+      null,
+      "132 - 134 FUK WA STREET"
+    ],
+    [
+      4,
+      1108226114,
+      null,
+      "159 FUK WA STREET"
+    ],
+    [
+      5,
+      1108226130,
+      null,
+      "246 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      6,
+      1108226142,
+      "YUK SING HOUSE",
+      null
+    ],
+    [
+      7,
+      1108226148,
+      null,
+      "130 FUK WA STREET"
+    ],
+    [
+      8,
+      1108226149,
+      "YAU HING BUILDING",
+      "244 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      9,
+      1108226164,
+      "KAM WAH MANSION",
+      "226 - 242 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      10,
+      1108226166,
+      null,
+      "126 - 128 FUK WA STREET"
+    ],
+    [
+      11,
+      1108226192,
+      "KAM MOON LAU",
+      "137 - 139 KWEILIN STREET"
+    ],
+    [
+      12,
+      1108226195,
+      null,
+      "275 - 277 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      13,
+      1108226196,
+      null,
+      "124 FUK WA STREET"
+    ],
+    [
+      14,
+      1108226218,
+      null,
+      "122 FUK WA STREET"
+    ],
+    [
+      15,
+      1108226240,
+      null,
+      "120 FUK WA STREET"
+    ],
+    [
+      16,
+      1108226254,
+      null,
+      "118 FUK WA STREET"
+    ],
+    [
+      17,
+      1108226262,
+      null,
+      null
+    ],
+    [
+      18,
+      1108226296,
+      "SUI CHEONG HOUSE",
+      "269 - 273 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      19,
+      1108226300,
+      null,
+      "116 FUK WA STREET"
+    ],
+    [
+      20,
+      1108226305,
+      "KAM WAH BUILDING",
+      "153 - 155 FUK WA STREET"
+    ],
+    [
+      21,
+      1108226309,
+      null,
+      "114 FUK WA STREET"
+    ],
+    [
+      22,
+      1108226313,
+      "HUNG YICK BUILDING",
+      "267 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      23,
+      1108226326,
+      null,
+      "112 FUK WA STREET"
+    ],
+    [
+      24,
+      1108226332,
+      "HUNG YICK BUILDING",
+      "265 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      25,
+      1108226345,
+      null,
+      "147 - 151 FUK WA STREET"
+    ],
+    [
+      26,
+      1108226348,
+      null,
+      "110 FUK WA STREET"
+    ],
+    [
+      27,
+      1108226349,
+      "PROSPERITY COURT",
+      "72 YEN CHOW STREET"
+    ],
+    [
+      28,
+      1108226352,
+      null,
+      "263 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      29,
+      1108226368,
+      "LAN FONG BUILDING",
+      "255 - 261 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      30,
+      1108226369,
+      null,
+      "68 - 70 YEN CHOW STREET"
+    ],
+    [
+      31,
+      1108226384,
+      "LAN FONG BUILDING",
+      "255 - 261 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      32,
+      1108226391,
+      null,
+      "256 APLIU STREET"
+    ],
+    [
+      33,
+      1108226400,
+      "LAN FONG BUILDING",
+      "255 - 261 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      34,
+      1108226401,
+      null,
+      "258 APLIU STREET"
+    ],
+    [
+      35,
+      1108226403,
+      null,
+      "254 APLIU STREET"
+    ],
+    [
+      36,
+      1108226405,
+      "FUK KIU BUILDING",
+      "143 - 145 FUK WA STREET"
+    ],
+    [
+      37,
+      1108226412,
+      "CHEUNG YIN BUILDING",
+      "220 - 224 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      38,
+      1108226422,
+      null,
+      null
+    ],
+    [
+      39,
+      1108226423,
+      "LAN FONG BUILDING",
+      "255 - 261 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      40,
+      1108226428,
+      null,
+      "252 APLIU STREET"
+    ],
+    [
+      41,
+      1108226433,
+      null,
+      "250 APLIU STREET"
+    ],
+    [
+      42,
+      1108226434,
+      null,
+      "141 FUK WA STREET"
+    ],
+    [
+      43,
+      1108226438,
+      "KAU ON BUILDING",
+      "251 - 253 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      44,
+      1108226449,
+      null,
+      "139 FUK WA STREET"
+    ],
+    [
+      45,
+      1108226453,
+      null,
+      "218 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      46,
+      1108226457,
+      null,
+      "248 APLIU STREET"
+    ],
+    [
+      47,
+      1108226465,
+      null,
+      "137 FUK WA STREET"
+    ],
+    [
+      48,
+      1108226467,
+      null,
+      "246 APLIU STREET"
+    ],
+    [
+      49,
+      1108226471,
+      null,
+      "66A YEN CHOW STREET"
+    ],
+    [
+      50,
+      1108226473,
+      "KAM SHA MANSION",
+      "212 - 216 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      51,
+      1108226482,
+      null,
+      "135 FUK WA STREET"
+    ],
+    [
+      52,
+      1108226483,
+      null,
+      "244 APLIU STREET"
+    ],
+    [
+      53,
+      1108226494,
+      null,
+      "66 YEN CHOW STREET"
+    ],
+    [
+      54,
+      1108226497,
+      null,
+      "133 FUK WA STREET"
+    ],
+    [
+      55,
+      1108226498,
+      "KAM FAI BUILDING",
+      "240 - 242 APLIU STREET"
+    ],
+    [
+      56,
+      1108226505,
+      null,
+      "64A YEN CHOW STREET"
+    ],
+    [
+      57,
+      1108226508,
+      null,
+      "131 FUK WA STREET"
+    ],
+    [
+      58,
+      1108226510,
+      "KWAN CHEUNG BUILDING",
+      "241 - 249 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      59,
+      1108226519,
+      "TAK WONG BUILDING",
+      "206 - 210 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      60,
+      1108226520,
+      null,
+      "259 APLIU STREET"
+    ],
+    [
+      61,
+      1108226523,
+      null,
+      "129 FUK WA STREET"
+    ],
+    [
+      62,
+      1108226525,
+      null,
+      "64 YEN CHOW STREET"
+    ],
+    [
+      63,
+      1108226528,
+      null,
+      "236 - 238 APLIU STREET"
+    ],
+    [
+      64,
+      1108226529,
+      null,
+      null
+    ],
+    [
+      65,
+      1108226536,
+      null,
+      "257 APLIU STREET"
+    ],
+    [
+      66,
+      1108226545,
+      "MAYFAIR BUILDING",
+      "153 PEI HO STREET"
+    ],
+    [
+      67,
+      1108226550,
+      null,
+      "255 APLIU STREET"
+    ],
+    [
+      68,
+      1108226556,
+      null,
+      "62A YEN CHOW STREET"
+    ],
+    [
+      69,
+      1108226563,
+      "SHUI SING BUILDING",
+      "202 - 204 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      70,
+      1108226574,
+      null,
+      "133 - 135 KWEILIN STREET"
+    ],
+    [
+      71,
+      1108226578,
+      null,
+      "62 YEN CHOW STREET"
+    ],
+    [
+      72,
+      1108226584,
+      null,
+      null
+    ],
+    [
+      73,
+      1108226596,
+      null,
+      "251 APLIU STREET"
+    ],
+    [
+      74,
+      1108226607,
+      null,
+      "60A YEN CHOW STREET"
+    ],
+    [
+      75,
+      1108226617,
+      null,
+      "249 APLIU STREET"
+    ],
+    [
+      76,
+      1108226620,
+      "HANFAST BUILDING",
+      "147 - 151 PEI HO STREET"
+    ],
+    [
+      77,
+      1108226630,
+      null,
+      "60 YEN CHOW STREET"
+    ],
+    [
+      78,
+      1108226632,
+      "WELLCOME MANSION",
+      "233 - 239 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      79,
+      1108226633,
+      "KWEILIN MANSION",
+      "232 - 234 APLIU STREET"
+    ],
+    [
+      80,
+      1108226637,
+      null,
+      "284 - 286A YU CHAU STREET"
+    ],
+    [
+      81,
+      1108226638,
+      null,
+      "247 APLIU STREET"
+    ],
+    [
+      82,
+      1108226639,
+      "BOC CHEUNG SHA WAN BUILDING",
+      "145 PEI HO STREET"
+    ],
+    [
+      83,
+      1108226652,
+      null,
+      "245 APLIU STREET"
+    ],
+    [
+      84,
+      1108226671,
+      null,
+      "243 APLIU STREET"
+    ],
+    [
+      85,
+      1108226678,
+      null,
+      "282 YU CHAU STREET"
+    ],
+    [
+      86,
+      1108226685,
+      null,
+      "241 APLIU STREET"
+    ],
+    [
+      87,
+      1108226693,
+      null,
+      "231 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      88,
+      1108226695,
+      null,
+      "239 APLIU STREET"
+    ],
+    [
+      89,
+      1108226700,
+      null,
+      "280 YU CHAU STREET"
+    ],
+    [
+      90,
+      1108226709,
+      null,
+      "229 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      91,
+      1108226711,
+      null,
+      "237 APLIU STREET"
+    ],
+    [
+      92,
+      1108226714,
+      null,
+      "38H KWEILIN STREET"
+    ],
+    [
+      93,
+      1108226717,
+      null,
+      null
+    ],
+    [
+      94,
+      1108226720,
+      null,
+      "278 YU CHAU STREET"
+    ],
+    [
+      95,
+      1108226724,
+      null,
+      "227 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      96,
+      1108226731,
+      null,
+      "235 APLIU STREET"
+    ],
+    [
+      97,
+      1108226733,
+      null,
+      "38G KWEILIN STREET"
+    ],
+    [
+      98,
+      1108226736,
+      null,
+      "276 YU CHAU STREET"
+    ],
+    [
+      99,
+      1108226741,
+      "JACKSON BUILDING",
+      "221 - 225 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      100,
+      1108226744,
+      null,
+      "274 YU CHAU STREET"
+    ],
+    [
+      101,
+      1108226745,
+      null,
+      "38F KWEILIN STREET"
+    ],
+    [
+      102,
+      1108226756,
+      null,
+      "127 KWEILIN STREET"
+    ],
+    [
+      103,
+      1108226757,
+      null,
+      null
+    ],
+    [
+      104,
+      1108226758,
+      null,
+      "272 YU CHAU STREET"
+    ],
+    [
+      105,
+      1108226759,
+      null,
+      "220 APLIU STREET"
+    ],
+    [
+      106,
+      1108226762,
+      null,
+      "125 KWEILIN STREET"
+    ],
+    [
+      107,
+      1108226763,
+      null,
+      "38E KWEILIN STREET"
+    ],
+    [
+      108,
+      1108226769,
+      null,
+      "218 APLIU STREET"
+    ],
+    [
+      109,
+      1108226770,
+      null,
+      "305 YU CHAU STREET"
+    ],
+    [
+      110,
+      1108226778,
+      null,
+      "123 KWEILIN STREET"
+    ],
+    [
+      111,
+      1108226781,
+      "HOUSTON COURT",
+      "214 - 216 APLIU STREET"
+    ],
+    [
+      112,
+      1108226783,
+      "CHEUNG LEE BUILDING",
+      "219 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      113,
+      1108226784,
+      null,
+      "303 YU CHAU STREET"
+    ],
+    [
+      114,
+      1108226787,
+      null,
+      "270 YU CHAU STREET"
+    ],
+    [
+      115,
+      1108226805,
+      null,
+      "121 KWEILIN STREET"
+    ],
+    [
+      116,
+      1108226808,
+      null,
+      "301 YU CHAU STREET"
+    ],
+    [
+      117,
+      1108226810,
+      null,
+      "268 YU CHAU STREET"
+    ],
+    [
+      118,
+      1108226812,
+      null,
+      "217 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      119,
+      1108226814,
+      null,
+      null
+    ],
+    [
+      120,
+      1108226831,
+      null,
+      null
+    ],
+    [
+      121,
+      1108226833,
+      null,
+      "266 YU CHAU STREET"
+    ],
+    [
+      122,
+      1108226834,
+      null,
+      "211 - 215 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      123,
+      1108226837,
+      null,
+      "299 YU CHAU STREET"
+    ],
+    [
+      124,
+      1108226842,
+      null,
+      "212 APLIU STREET"
+    ],
+    [
+      125,
+      1108226845,
+      null,
+      "208 - 210 APLIU STREET"
+    ],
+    [
+      126,
+      1108226846,
+      null,
+      null
+    ],
+    [
+      127,
+      1108226847,
+      null,
+      "264 YU CHAU STREET"
+    ],
+    [
+      128,
+      1108226848,
+      null,
+      null
+    ],
+    [
+      129,
+      1108226853,
+      "TENDER COURT",
+      null
+    ],
+    [
+      130,
+      1108226863,
+      null,
+      "115 - 119 KWEILIN STREET"
+    ],
+    [
+      131,
+      1108226882,
+      "AP LIU STREET PUBLIC TOILET",
+      "215 APLIU STREET"
+    ],
+    [
+      132,
+      1108226898,
+      "LUEN HONG BUILDING",
+      "316 - 324 KI LUNG STREET"
+    ],
+    [
+      133,
+      1108226899,
+      null,
+      "293 YU CHAU STREET"
+    ],
+    [
+      134,
+      1108226901,
+      null,
+      "206 APLIU STREET"
+    ],
+    [
+      135,
+      1108226917,
+      null,
+      "143 PEI HO STREET"
+    ],
+    [
+      136,
+      1108226923,
+      null,
+      "204 APLIU STREET"
+    ],
+    [
+      137,
+      1108226929,
+      null,
+      "291 YU CHAU STREET"
+    ],
+    [
+      138,
+      1108226947,
+      null,
+      "141 PEI HO STREET"
+    ],
+    [
+      139,
+      1108226953,
+      null,
+      "289 YU CHAU STREET"
+    ],
+    [
+      140,
+      1108226954,
+      null,
+      "202 APLIU STREET"
+    ],
+    [
+      141,
+      1108226959,
+      null,
+      "213 APLIU STREET"
+    ],
+    [
+      142,
+      1108226967,
+      null,
+      "200 APLIU STREET"
+    ],
+    [
+      143,
+      1108226972,
+      null,
+      "287 YU CHAU STREET"
+    ],
+    [
+      144,
+      1108226973,
+      null,
+      null
+    ],
+    [
+      145,
+      1108226975,
+      null,
+      "314 KI LUNG STREET"
+    ],
+    [
+      146,
+      1108226981,
+      null,
+      "211 APLIU STREET"
+    ],
+    [
+      147,
+      1108226991,
+      null,
+      "312 KI LUNG STREET"
+    ],
+    [
+      148,
+      1108226996,
+      null,
+      "139 PEI HO STREET"
+    ],
+    [
+      149,
+      1108227002,
+      null,
+      "285 YU CHAU STREET"
+    ],
+    [
+      150,
+      1108227005,
+      null,
+      "198 APLIU STREET"
+    ],
+    [
+      151,
+      1108227008,
+      null,
+      null
+    ],
+    [
+      152,
+      1108227010,
+      null,
+      "209 APLIU STREET"
+    ],
+    [
+      153,
+      1108227013,
+      null,
+      "137 PEI HO STREET"
+    ],
+    [
+      154,
+      1108227015,
+      null,
+      "310 KI LUNG STREET"
+    ],
+    [
+      155,
+      1108227021,
+      null,
+      "38C - 38D KWEILIN STREET"
+    ],
+    [
+      156,
+      1108227027,
+      null,
+      "196 APLIU STREET"
+    ],
+    [
+      157,
+      1108227029,
+      null,
+      "283 YU CHAU STREET"
+    ],
+    [
+      158,
+      1108227037,
+      null,
+      "207 APLIU STREET"
+    ],
+    [
+      159,
+      1108227040,
+      null,
+      "308 KI LUNG STREET"
+    ],
+    [
+      160,
+      1108227050,
+      null,
+      "194 APLIU STREET"
+    ],
+    [
+      161,
+      1108227058,
+      null,
+      "205 APLIU STREET"
+    ],
+    [
+      162,
+      1108227061,
+      null,
+      null
+    ],
+    [
+      163,
+      1108227064,
+      null,
+      "192 APLIU STREET"
+    ],
+    [
+      164,
+      1108227065,
+      null,
+      "281 YU CHAU STREET"
+    ],
+    [
+      165,
+      1108227074,
+      null,
+      "306 KI LUNG STREET"
+    ],
+    [
+      166,
+      1108227085,
+      null,
+      "203 APLIU STREET"
+    ],
+    [
+      167,
+      1108227087,
+      null,
+      "190 APLIU STREET"
+    ],
+    [
+      168,
+      1108227091,
+      null,
+      "304 KI LUNG STREET"
+    ],
+    [
+      169,
+      1108227097,
+      null,
+      "250 YU CHAU STREET"
+    ],
+    [
+      170,
+      1108227112,
+      "MING CHU BUILDING",
+      "195 - 201 APLIU STREET"
+    ],
+    [
+      171,
+      1108227123,
+      "CHEONG LOK BUILDING",
+      "191 - 203 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      172,
+      1108227128,
+      null,
+      "188 APLIU STREET"
+    ],
+    [
+      173,
+      1108227135,
+      null,
+      "248 YU CHAU STREET"
+    ],
+    [
+      174,
+      1108227139,
+      "TAI TAK BUILDING",
+      "298 - 302 KI LUNG STREET"
+    ],
+    [
+      175,
+      1108227140,
+      null,
+      "99 KWEILIN STREET"
+    ],
+    [
+      176,
+      1108227145,
+      null,
+      "135A - 135D PEI HO STREET"
+    ],
+    [
+      177,
+      1108227161,
+      null,
+      "97 KWEILIN STREET"
+    ],
+    [
+      178,
+      1108227174,
+      "HARMONY HOUSE",
+      "240 - 246 YU CHAU STREET"
+    ],
+    [
+      179,
+      1108227205,
+      null,
+      "296 KI LUNG STREET"
+    ],
+    [
+      180,
+      1108227209,
+      null,
+      "193 APLIU STREET"
+    ],
+    [
+      181,
+      1108227223,
+      null,
+      "294 KI LUNG STREET"
+    ],
+    [
+      182,
+      1108227233,
+      null,
+      "191 APLIU STREET"
+    ],
+    [
+      183,
+      1108227244,
+      null,
+      "238 YU CHAU STREET"
+    ],
+    [
+      184,
+      1108227253,
+      null,
+      "271 YU CHAU STREET"
+    ],
+    [
+      185,
+      1108227257,
+      null,
+      "189 APLIU STREET"
+    ],
+    [
+      186,
+      1108227262,
+      null,
+      "95B KWEILIN STREET"
+    ],
+    [
+      187,
+      1108227264,
+      "NEW PEI HO BUILDING",
+      "100 - 106 PEI HO STREET"
+    ],
+    [
+      188,
+      1108227272,
+      null,
+      null
+    ],
+    [
+      189,
+      1108227287,
+      null,
+      "187 APLIU STREET"
+    ],
+    [
+      190,
+      1108227289,
+      null,
+      "269 YU CHAU STREET"
+    ],
+    [
+      191,
+      1108227292,
+      "WAH TONG HOUSE",
+      "187 - 189 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      192,
+      1108227293,
+      null,
+      "236 YU CHAU STREET"
+    ],
+    [
+      193,
+      1108227299,
+      null,
+      "234 YU CHAU STREET"
+    ],
+    [
+      194,
+      1108227309,
+      null,
+      "95A KWEILIN STREET"
+    ],
+    [
+      195,
+      1108227311,
+      "SHUN PONG BUILDING",
+      "265 - 267 YU CHAU STREET"
+    ],
+    [
+      196,
+      1108227318,
+      null,
+      "367 KI LUNG STREET"
+    ],
+    [
+      197,
+      1108227319,
+      null,
+      "183 - 185 APLIU STREET"
+    ],
+    [
+      198,
+      1108227329,
+      null,
+      "232 YU CHAU STREET"
+    ],
+    [
+      199,
+      1108227342,
+      "KI LUNG BUILDING",
+      "365 KI LUNG STREET"
+    ],
+    [
+      200,
+      1108227352,
+      null,
+      "230 YU CHAU STREET"
+    ],
+    [
+      201,
+      1108227362,
+      null,
+      "263 YU CHAU STREET"
+    ],
+    [
+      202,
+      1108227364,
+      "KI LUNG BUILDING",
+      "363 KI LUNG STREET"
+    ],
+    [
+      203,
+      1108227368,
+      null,
+      "228 YU CHAU STREET"
+    ],
+    [
+      204,
+      1108227378,
+      null,
+      "131 PEI HO STREET"
+    ],
+    [
+      205,
+      1108227383,
+      null,
+      "261 YU CHAU STREET"
+    ],
+    [
+      206,
+      1108227386,
+      null,
+      "361 KI LUNG STREET"
+    ],
+    [
+      207,
+      1108227387,
+      null,
+      "286 - 288 KI LUNG STREET"
+    ],
+    [
+      208,
+      1108227389,
+      null,
+      "174 APLIU STREET"
+    ],
+    [
+      209,
+      1108227399,
+      null,
+      "172 APLIU STREET"
+    ],
+    [
+      210,
+      1108227402,
+      null,
+      "226 YU CHAU STREET"
+    ],
+    [
+      211,
+      1108227407,
+      null,
+      "257 - 259 YU CHAU STREET"
+    ],
+    [
+      212,
+      1108227420,
+      null,
+      "129 PEI HO STREET"
+    ],
+    [
+      213,
+      1108227424,
+      null,
+      null
+    ],
+    [
+      214,
+      1108227427,
+      null,
+      "95 KWEILIN STREET"
+    ],
+    [
+      215,
+      1108227429,
+      "CHEUNG ON BUILDING",
+      "119 - 127 PEI HO STREET"
+    ],
+    [
+      216,
+      1108227444,
+      null,
+      "170 APLIU STREET"
+    ],
+    [
+      217,
+      1108227455,
+      null,
+      "284 KI LUNG STREET"
+    ],
+    [
+      218,
+      1108227463,
+      null,
+      null
+    ],
+    [
+      219,
+      1108227464,
+      "TUNG HING BUILDING",
+      "251 - 255 YU CHAU STREET"
+    ],
+    [
+      220,
+      1108227472,
+      null,
+      "168 APLIU STREET"
+    ],
+    [
+      221,
+      1108227483,
+      null,
+      "282 KI LUNG STREET"
+    ],
+    [
+      222,
+      1108227499,
+      "KWOK PO HOUSE",
+      "91 - 93 KWEILIN STREET"
+    ],
+    [
+      223,
+      1108227500,
+      null,
+      "98 PEI HO STREET"
+    ],
+    [
+      224,
+      1108227503,
+      null,
+      "166 APLIU STREET"
+    ],
+    [
+      225,
+      1108227505,
+      null,
+      "164 APLIU STREET"
+    ],
+    [
+      226,
+      1108227510,
+      null,
+      "280 KI LUNG STREET"
+    ],
+    [
+      227,
+      1108227525,
+      null,
+      "162 APLIU STREET"
+    ],
+    [
+      228,
+      1108227533,
+      null,
+      "278 KI LUNG STREET"
+    ],
+    [
+      229,
+      1108227540,
+      null,
+      "358 TAI NAN STREET"
+    ],
+    [
+      230,
+      1108227541,
+      null,
+      "249 YU CHAU STREET"
+    ],
+    [
+      231,
+      1108227550,
+      null,
+      "160 APLIU STREET"
+    ],
+    [
+      232,
+      1108227553,
+      null,
+      "169 - 171 APLIU STREET"
+    ],
+    [
+      233,
+      1108227568,
+      null,
+      "276 KI LUNG STREET"
+    ],
+    [
+      234,
+      1108227574,
+      null,
+      "247 YU CHAU STREET"
+    ],
+    [
+      235,
+      1108227597,
+      null,
+      "274 KI LUNG STREET"
+    ],
+    [
+      236,
+      1108227600,
+      null,
+      "87 - 89 KWEILIN STREET"
+    ],
+    [
+      237,
+      1108227611,
+      "TUNG SHING BUILDING",
+      "155 - 167 APLIU STREET"
+    ],
+    [
+      238,
+      1108227621,
+      "CHUN HING BUILDING",
+      "96 - 96C PEI HO STREET"
+    ],
+    [
+      239,
+      1108227623,
+      null,
+      "272 KI LUNG STREET"
+    ],
+    [
+      240,
+      1108227628,
+      "KIN WO COURT",
+      "243 - 245 YU CHAU STREET"
+    ],
+    [
+      241,
+      1108227642,
+      "PEI HO STREET MUNICIPAL SERVICES BUILDING",
+      "333 KI LUNG STREET"
+    ],
+    [
+      242,
+      1108227646,
+      null,
+      "270 KI LUNG STREET"
+    ],
+    [
+      243,
+      1108227654,
+      null,
+      "356 TAI NAN STREET"
+    ],
+    [
+      244,
+      1108227674,
+      "YUK CHUEN BUILDING",
+      "237 - 241 YU CHAU STREET"
+    ],
+    [
+      245,
+      1108227677,
+      null,
+      null
+    ],
+    [
+      246,
+      1108227679,
+      null,
+      "268 KI LUNG STREET"
+    ],
+    [
+      247,
+      1108227696,
+      null,
+      "266 KI LUNG STREET"
+    ],
+    [
+      248,
+      1108227699,
+      null,
+      null
+    ],
+    [
+      249,
+      1108227701,
+      "ON SHEUNG BUILDING",
+      "202 - 214 YU CHAU STREET"
+    ],
+    [
+      250,
+      1108227724,
+      null,
+      "264 KI LUNG STREET"
+    ],
+    [
+      251,
+      1108227745,
+      null,
+      "262 KI LUNG STREET"
+    ],
+    [
+      252,
+      1108227750,
+      null,
+      "111 PEI HO STREET"
+    ],
+    [
+      253,
+      1108227773,
+      null,
+      "260 KI LUNG STREET"
+    ],
+    [
+      254,
+      1108227786,
+      null,
+      "153 APLIU STREET"
+    ],
+    [
+      255,
+      1108227791,
+      null,
+      "200 YU CHAU STREET"
+    ],
+    [
+      256,
+      1108227795,
+      null,
+      "258 KI LUNG STREET"
+    ],
+    [
+      257,
+      1108227817,
+      null,
+      "151 APLIU STREET"
+    ],
+    [
+      258,
+      1108227819,
+      "SAM TAI TZE & PAK TAI TEMPLES SHAM SHUI PO",
+      "196 - 198 YU CHAU STREET"
+    ],
+    [
+      259,
+      1108227824,
+      null,
+      "256 KI LUNG STREET"
+    ],
+    [
+      260,
+      1108227839,
+      null,
+      "149 APLIU STREET"
+    ],
+    [
+      261,
+      1108227846,
+      null,
+      null
+    ],
+    [
+      262,
+      1108227849,
+      null,
+      "254 KI LUNG STREET"
+    ],
+    [
+      263,
+      1108227867,
+      null,
+      "147 APLIU STREET"
+    ],
+    [
+      264,
+      1108227880,
+      null,
+      "109 PEI HO STREET"
+    ],
+    [
+      265,
+      1108227884,
+      null,
+      "223 YU CHAU STREET"
+    ],
+    [
+      266,
+      1108227889,
+      null,
+      "145 APLIU STREET"
+    ],
+    [
+      267,
+      1108227904,
+      null,
+      "192 - 194 YU CHAU STREET"
+    ],
+    [
+      268,
+      1108227912,
+      null,
+      "143 APLIU STREET"
+    ],
+    [
+      269,
+      1108227949,
+      null,
+      "90 PEI HO STREET"
+    ],
+    [
+      270,
+      1108227959,
+      null,
+      "190 YU CHAU STREET"
+    ],
+    [
+      271,
+      1108227964,
+      null,
+      "188 YU CHAU STREET"
+    ],
+    [
+      272,
+      1108227971,
+      null,
+      "88 PEI HO STREET"
+    ],
+    [
+      273,
+      1108227985,
+      null,
+      "325 - 327A TAI NAN STREET"
+    ],
+    [
+      274,
+      1108227988,
+      "CHIAT HING BUILDING",
+      "213 - 221 YU CHAU STREET"
+    ],
+    [
+      275,
+      1108227995,
+      null,
+      "86 PEI HO STREET"
+    ],
+    [
+      276,
+      1108228002,
+      null,
+      "186 YU CHAU STREET"
+    ],
+    [
+      277,
+      1108245681,
+      "CHEUNG SHA WAN GOVERNMENT OFFICES",
+      "303 CHEUNG SHA WAN ROAD"
+    ],
+    [
+      278,
+      1108245685,
+      "WONDER COMPUTER CENTRE",
+      null
+    ],
+    [
+      279,
+      1108245693,
+      "FUK WING BUILDING",
+      null
+    ],
+    [
+      280,
+      1108245697,
+      "METRO SHAM SHUI",
+      null
+    ],
+    [
+      281,
+      1108245701,
+      "SUI CHEONG HOUSE",
+      null
+    ],
+    [
+      282,
+      1108245704,
+      "PROSPERITY COURT",
+      null
+    ],
+    [
+      283,
+      1108245707,
+      null,
+      null
+    ],
+    [
+      284,
+      1108245711,
+      "SHUI SING BUILDING",
+      null
+    ],
+    [
+      285,
+      1108245713,
+      "HANFAST BUILDING",
+      null
+    ],
+    [
+      286,
+      1108245714,
+      "BOC CHEUNG SHA WAN BUILDING",
+      null
+    ],
+    [
+      287,
+      1108245717,
+      "MILAN PLACE",
+      null
+    ],
+    [
+      288,
+      1108245721,
+      "LUEN HONG BUILDING",
+      null
+    ],
+    [
+      289,
+      1108245751,
+      "KIN WO COURT",
+      null
+    ],
+    [
+      290,
+      1810079581,
+      null,
+      null
+    ],
+    [
+      291,
+      1810080688,
+      null,
+      null
+    ]
+  ]
+}

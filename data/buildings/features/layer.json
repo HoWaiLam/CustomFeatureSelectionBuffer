@@ -1,0 +1,39 @@
+{
+  "name": "building",
+  "label": "Buildings",
+  "attributes": [
+    {
+      "name": "integratedID",
+      "label": "Integrated ID",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "show": 0
+    },
+    {
+      "name": "buildingId",
+      "label": "Building ID",
+      "type": "SCALAR",
+      "componentType": "UINT32",
+      "required": 1,
+      "show": 3
+    },
+    {
+      "name": "buildingName",
+      "label": "Building Name",
+      "type": "STRING",
+      "show": 3,
+      "required": 1,
+      "noData": "N/A",
+      "addToLabel": 1
+    },
+    {
+      "name": "buildingAddress",
+      "label": "Building Address",
+      "type": "STRING",
+      "show": 3,
+      "required": 1,
+      "noData": "N/A",
+      "addToLabel": 1
+    }
+  ]
+}

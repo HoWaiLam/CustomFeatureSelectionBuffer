@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <meta charset="UTF-8">	<link rel="stylesheet" href="js/cesium1.138/Widgets/widgets.css">	<link rel="stylesheet" crossorigin href="/assets/index.css">
+	<script src="js/cesium1.138/Cesium.js"></script>
+	<script src="js/bundle.js"></script>	<title>Photogrammetric Model Feature Selections</title>
+	<template id="toc-layer-template">
+		<div class="toc-layer">
+			<div class="toc-layer-name"></div>
+			<div class="toc-layer-checkbox-container">
+				<input type="checkbox" class="layer-checkbox">
+			</div>
+		</div>
+	</template>
+	<template id="panel-template">
+		<div class="panel background">
+			<div class="header dark-background"></div>
+			<div class="contents"></div>
+		</div>
+	</template>
+	<template id="boundary-selection-template">
+		<div class="boundary-selection">
+			<div class="radio">
+				<input type="radio" name="boundary-select"></input>
+			</div>
+			<div class="label"></div>
+		</div>
+	</template>
+	<template id="popup-template">
+		<div class="popup active-border">
+			<div class="popup-contents">
+			</div>
+		</div>
+	</template>
+	<template id="building-popup-content-template">
+		<div class="popup-content">
+			<div class="popup-labels">
+				<div class="teritary-label"></div>
+				<div class="secondary-label"></div>
+			</div>
+		</div>
+	</template>
+  </head>
+  <body>
+	<div id="main">
+		<div id="panels">
+			<div class="panel background">
+				<div class="header dark-background">DESCRIPTION</div>
+				<div class="contents">
+					<p class="content">
+						Photogrammetric models deliver realistic visuals for 3D web maps, but other supplementary data layers (such as 2D polygons) are required for functionalities such as feature selection and information retrieval.  
+						Large Discrepancies between the precieved boundary of a feature in the photogrammetric model and its counterpart in underlying data layer would adversely affect the accuracy of the selected feature and the information retrieved.
+					</p>
+					<p class="content">
+						Here is an example of a photogrammetric model of several city blocks and the 2D building polygon layer used for building selection and retrieving basic building information. 
+						The exclusion of covered balconies and bay windows from the building polygon layer creates discrepancies between the polygons and the perceived building boundaries in the photogrammetric model. 
+						As a result, users may be unable to retrieve information when clicking or hovering over what appears to be part of a building.
+					</p>
+					<p class="content">
+						We can reduce such discrepancies by computing a custom selection buffer for each building feature in the polygon layer. 
+						The selection buffer uses a default distance of 2.5 meters and can be adjusted individually based on the size of covered balconies and bay windows. 
+						It also accounts for distances to neighbouring buildings to prevent overlaps.	
+					</p>
+				</div>
+			</div>
+		</div>
+		<div id="map-3d"></div>
+		<div id="map-2d">
+			<div class="header dark-background"></div>
+			<div class="map2d-container"></div>
+		</div>
+	</div>
+  </body>
+</html>
