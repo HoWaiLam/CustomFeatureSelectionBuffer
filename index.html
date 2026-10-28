@@ -1,8 +1,10 @@
 <html>
   <head>
-    <meta charset="UTF-8">	<link rel="stylesheet" href="js/cesium1.138/Widgets/widgets.css">	<link rel="stylesheet" href="assets/index.css">
+    <meta charset="UTF-8">
+	<link rel="stylesheet" href="assets/index.css">
 	<script src="js/cesium1.138/Cesium.js"></script>
-	<script src="js/bundle.js"></script>	<title>Custom Selection Buffer For Feature Selection</title>
+	<script src="js/bundle.js"></script>
+	<title>Feature Selection in Continuous Mesh Models</title>
 	<template id="toc-layer-template">
 		<div class="toc-layer">
 			<div class="toc-layer-name"></div>
@@ -67,6 +69,14 @@
 		<div id="map-2d">
 			<div class="header dark-background"></div>
 			<div class="map2d-container"></div>
+		</div>
+		<div id="loading-screen">
+			<div class="screen-content">
+				<div class="screen-icon">
+					<span class="spinner"></span>
+				</div>
+				<div class="screen-text">Loaing Tiles...</div>
+			</div>
 		</div>
 	</div>
   </body>
