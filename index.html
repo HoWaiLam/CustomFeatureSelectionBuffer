@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="assets/index.css">
 	<script src="js/cesium1.138/Cesium.js"></script>
 	<script src="js/bundle.js"></script>
-	<title>Feature Selection in Continuous Mesh Models</title>
+	<title>Feature Selection in Photogrammetric Models</title>
 	<template id="toc-layer-template">
 		<div class="toc-layer">
 			<div class="toc-layer-name"></div>
@@ -49,8 +49,10 @@
 				<div class="header dark-background">DESCRIPTION</div>
 				<div class="contents">
 					<p class="content">
-						Photogrammetric models deliver realistic visuals for 3D web maps, but other supplementary data layers (such as 2D polygons) are required for functionalities such as feature selection and information retrieval.  
-						Large Discrepancies between the precieved boundary of a feature in the photogrammetric model and its counterpart in underlying data layer would adversely affect the accuracy of the selected feature and the information retrieved.
+						Photogrammetric models deliver realistic visuals for 3D web maps but rely on other supplementary data layers for feature selection and information retrieval.
+					</p>
+					<p class="content">
+						An existing 2D building polygon layer can serve this purpose, but discrepancies between the perceived feature boundary in the photogrammetric model and the actual feature boundary in the supplementary data layer adversely affect the accuracy of these operations.
 					</p>
 					<p class="content">
 						Here is an example of a photogrammetric model of several city blocks and the 2D building polygon layer used for building selection and retrieving basic building information. 
@@ -58,9 +60,8 @@
 						As a result, users may be unable to retrieve information when clicking or hovering over what appears to be part of a building.
 					</p>
 					<p class="content">
-						We can reduce such discrepancies by computing a custom selection buffer for each building feature in the polygon layer. 
-						The selection buffer uses a default distance of 2.5 meters and can be adjusted individually based on the size of covered balconies and bay windows. 
-						It also accounts for distances to neighbouring buildings to prevent overlaps.	
+						To reduce these discrepancies, a feature selection buffer can be computed for each building polygon. 
+						This is a non-uniform buffer that expands into unoccupied space while preserving shared boundaries with neighbouring buildings.
 					</p>
 				</div>
 			</div>
@@ -75,7 +76,7 @@
 				<div class="screen-icon">
 					<span class="spinner"></span>
 				</div>
-				<div class="screen-text">Loading Tiles...</div>
+				<div class="screen-text">Loaing Photogrammetric Model...</div>
 			</div>
 		</div>
 	</div>
